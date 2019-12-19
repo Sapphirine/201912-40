@@ -4,14 +4,11 @@
 
 Not just reporting service change, but predicting service change and its degree to riders
 
-![Image description](https://storage.googleapis.com/bart-ml.appspot.com/2.png)
-![Image description](https://storage.googleapis.com/bart-ml.appspot.com/3.png)
-![Image description](https://storage.googleapis.com/bart-ml.appspot.com/1.gif)
-
-<img src="https://storage.googleapis.com/bart-ml.appspot.com/2.png" alt="text">
-<img src="https://storage.googleapis.com/bart-ml.appspot.com/3.png" alt="image">
-<img src="https://storage.googleapis.com/bart-ml.appspot.com/1.gif" alt="main">
-
+<p align="center">
+  <img src="https://storage.googleapis.com/bart-ml.appspot.com/2.png" alt="text">
+  <img src="https://storage.googleapis.com/bart-ml.appspot.com/3.png" alt="image">
+  <img src="https://storage.googleapis.com/bart-ml.appspot.com/1.gif" alt="main">
+</p>
 
 
 ## Context of repository
