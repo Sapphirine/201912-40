@@ -2,10 +2,10 @@ const Twit = require('twit')
 
 const streamTwits = () => {
     const T = new Twit({
-        consumer_key: 'cFlKYYuktOZ07y8EcTYgzvWpS',
-        consumer_secret: 'dK72LQSalBCsd0LRBSHBSEDSPbCMpbuA7LYczgvsLNPUTrYPRE',
-        access_token: '281449714-C5lo5XoTq8jUh8gpe6gNHtp5IOVitSpMqQjqn0sE',
-        access_token_secret: '35tDuHOCKZcby2J9umjf0wWMp2HxoBs8Ae3m5pLtHfzhH'
+        consumer_key: 'XXXXXX',
+        consumer_secret: 'XXXXXX',
+        access_token: 'XXXXXX',
+        access_token_secret: 'XXXXXX'
     });
 
     const stream = T.stream('statuses/filter', { track: 'movie' })
