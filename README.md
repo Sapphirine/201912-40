@@ -5,9 +5,9 @@
 Not just reporting service change, but predicting service change and its degree to riders
 
 
-<img src="https://www.dropbox.com/s/pqrk9t2gvu8r5vu/2.png?dl=1" alt="text">
-<img src="https://www.dropbox.com/s/pv9g0g57ktldgjj/3.png?dl=1" alt="image">
-<img src="https://www.dropbox.com/s/p3ep0wemvl32f4h/1.gif?dl=1" alt="main">
+<img src="https://www.dropbox.com/s/pqrk9t2gvu8r5vu/2.png" alt="text">
+<img src="https://www.dropbox.com/s/pv9g0g57ktldgjj/3.png" alt="image">
+<img src="https://www.dropbox.com/s/p3ep0wemvl32f4h/1.gif" alt="main">
 
 
 
