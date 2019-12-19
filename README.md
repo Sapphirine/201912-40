@@ -4,13 +4,13 @@
 
 Not just reporting service change, but predicting service change and its degree to riders
 
-![Image description](https://www.dropbox.com/s/pqrk9t2gvu8r5vu/2.png?dl=1)
-![Image description](https://www.dropbox.com/s/pv9g0g57ktldgjj/3.png?dl=1)
-![Image description](https://www.dropbox.com/s/p3ep0wemvl32f4h/1.gif?dl=1)
+![Image description](https://storage.googleapis.com/bart-ml.appspot.com/2.png)
+![Image description](https://storage.googleapis.com/bart-ml.appspot.com/3.png)
+![Image description](https://storage.googleapis.com/bart-ml.appspot.com/1.gif)
 
-<img src="https://www.dropbox.com/s/pqrk9t2gvu8r5vu/2.png" alt="text">
-<img src="https://www.dropbox.com/s/pv9g0g57ktldgjj/3.png" alt="image">
-<img src="https://www.dropbox.com/s/p3ep0wemvl32f4h/1.gif" alt="main">
+<img src="https://storage.googleapis.com/bart-ml.appspot.com/2.png" alt="text">
+<img src="https://storage.googleapis.com/bart-ml.appspot.com/3.png" alt="image">
+<img src="https://storage.googleapis.com/bart-ml.appspot.com/1.gif" alt="main">
 
 
 
