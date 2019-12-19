@@ -1,0 +1,10 @@
+.Heading {
+    text-align: center;
+    color: #4285f4;
+    padding-top: 2em;
+    padding-bottom: 1.5em;
+}
+
+.Heading h1 b {
+    font-size: 1.5em;
+}

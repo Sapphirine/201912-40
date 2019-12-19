@@ -1,0 +1,26 @@
+.Main {
+    text-align: center;
+}
+
+.RM {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center;
+    justify-content: center; */
+}
+
+.RM h2 {
+    padding-bottom: 5px;
+}
+
+.SearchBar {
+    width: 100%;
+}
+
+.SearchBar .react-search-field input.react-search-field-input {
+    font-size: 30px;
+}
